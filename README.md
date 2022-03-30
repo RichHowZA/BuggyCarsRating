@@ -3,7 +3,7 @@ Using the following URL https://buggy.justtestit.org  I automated the 5 critical
 
 ## 1. Language and framework used
 
-   - Java 1.8
+   - Java 11
    - Maven 3.8.1
    - Selenium Web Driver
    - Chrome Driver
