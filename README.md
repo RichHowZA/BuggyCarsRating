@@ -11,9 +11,9 @@ Using the following URL https://buggy.justtestit.org  I automated the 5 critical
 ## 2. Configuration
 
  - Path to properties file:
-    /src/test/resources/automation.properties
+    /src/test/resources/automation.properties (If you want to change user and password)
     
- - Path to surefire reports
+ - Path to surefire reports (View the test execution report in HTML)
    /target/surefire-reports/index.html
 
 ## 3. Steps to execute tests from command line
